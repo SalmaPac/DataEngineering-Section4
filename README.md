@@ -18,3 +18,4 @@ The solution is implemented using java script with results fetched from postman 
 1. Go to https://www.postman.com/mickudaya/workspace/salma/request/11113919-d2ca9b3c-e071-49b8-b86e-f22fc29b4afe
 2. Click Send button to get the response data for Singapore
 3. Navigate from "Pretty" to "Visualize" section in the bottom portion of graph results
+4. Refer to "Covid19 Singapore Chart.jpg" from the respoitory to view the chart generated
