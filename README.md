@@ -9,11 +9,11 @@ Your team decided to use the public data from https://documenter.getpostman.com/
 Display a graph to show the number cases in Singapore over time using the APIs from https://covid19api.com/.
 
 
-Solution Design
+# Solution Design
 
 The solution is implemented using java script with results fetched from postman and with the help of visualization, code added to the Tests for covid19 api request would render in the Visualize tab for the response body, alongside the Pretty, Raw, and Preview options.
 
-To view the solution
+# To view the solution
 
 1. Go to https://www.postman.com/mickudaya/workspace/salma/request/11113919-d2ca9b3c-e071-49b8-b86e-f22fc29b4afe
 2. Click Send button to get the response data for Singapore
